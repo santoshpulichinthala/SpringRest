@@ -1,0 +1,51 @@
+img.img2 {width: 30%;
+     height: 30%;
+}
+
+td.HdLbFnt {
+            color: white;
+            font-family: "Gill Sans";
+            text-align: center;
+            font-size: 20pt;
+            }
+
+td.TdText{
+            color: white;
+            font-family: "Gill Sans";
+            font-style: Bold;
+            text-align: center;
+            font-size: 16pt;
+          }
+                     
+table.esk_table {
+           /*Center table text*/
+           margin: 0 auto; 
+           background-color:#0A3595;
+           color: white;
+           font-family: "Gill Sans";
+          }
+          
+td.TdSmText{
+        color: white; 
+        font-family: Arial; 
+        font-size: 16px;
+        
+          }
+a.link {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a.hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a.active {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
