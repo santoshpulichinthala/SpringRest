@@ -8,7 +8,7 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 
 @SpringBootApplication
 @ComponentScan({"co.za.eskom"})
-@EnableJpaRepositories("co.za.eskom.dao")
+@EnableJpaRepositories("co.za.eskom.repository")
 @EntityScan("co.za.eskom.model")
 public class GtdApplication {
 

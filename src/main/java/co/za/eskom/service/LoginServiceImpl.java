@@ -1,6 +1,6 @@
 package co.za.eskom.service;
 
-import co.za.eskom.dao.LoginRepository;
+import co.za.eskom.repository.LoginRepository;
 import co.za.eskom.model.Login;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
